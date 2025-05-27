@@ -468,8 +468,5 @@ curl -X GET "http://localhost:8080/api/imagens/profissional/1" --output profissi
 
 > Também é possível usar o [postman](https://cursos.alura.com.br/forum/topico-envio-de-foto-via-postman-197419#:~:text=Com%20a%20API%20em%20execução,a%20requisição%20do%20tipo%20POST.)
 
-# Author
 
-| [<img src="https://avatars.githubusercontent.com/u/79289647?v=4" width=115><br><sub>Carlos Hayden</sub>](https://github.com/JunhaumHayden) |
-| :---: |
 
